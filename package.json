@@ -100,7 +100,7 @@
     "cross-env": "5.0.1",
     "css-loader": "0.28.4",
     "cssnano": "3.10.0",
-    "electron": "^7.1.2",
+    "electron": "^9.4.0",
     "electron-builder": "^21.2.0",
     "electron-connect": "^0.6.1",
     "electron-forge": "^5.2.4",
